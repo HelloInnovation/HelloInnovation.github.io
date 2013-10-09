@@ -64,7 +64,7 @@ We have several ruby roles to fill - if you have *a few* of the following skills
   * CSS _(we like the scss syntax, you should know browser compatibility)_
   * Coffeescript _(be a ninja or use standard js/jquery)_
   * Webdesign tools _(you don't need a designer to extract images for you)_
-  * Various frameworks _(we like bootstrap, experience with MVC frameworks are welcome)_
+  * Various frameworks _(we like bootstrap, experience with MVC frameworks is welcome)_
   * Mobile _(phonegap, titanium,  ios, android)_
   * Websockets
 
