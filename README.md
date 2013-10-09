@@ -73,7 +73,7 @@ We have several ruby roles to fill - if you have *a few* of the following skills
 
 ## Applying
 
-> Send us an email to james.pinto@helloinnovation.com
+> Send us an email to jobs-brasil@helloinnovation.com
  Please be sure to put the job title you're applying for in the subject line.
 
 * **_"Senior Backend Rails Developer Resume"_**
