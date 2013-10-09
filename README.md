@@ -30,7 +30,7 @@ Tell us about any other great skills you bring to the table.
 
 2. 2.000,00 Dolares Americanos por mes para desenvolvedor Senior
 
-> Pagamento via paypal ou transferencia bancaria, aos dias 15 e 30 do mes
+> Pagamento via paypal ou transferencia bancaria, no dia 05 de cada mes
 
 
 ## A normal day at work
