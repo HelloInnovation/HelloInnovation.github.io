@@ -16,17 +16,17 @@ Tell us about any other great skills you bring to the table.
 
 ## Positions
 
-1. Senior Front End Rails Developer
+1. Senior Frontend Rails Developer
 
-2. Senior Back End Rails Developer
+2. Senior Backend Rails Developer
 
-3. Intermediate Front End Rails Developer
+3. Mid-Level Frontend Rails Developer
 
-4. Intermediate Back End Rails Developer
+4. Mid-Level Backend Rails Developer
 
 ## Compensation
 
-1. 1.500,00 Dolares Americanos por mes para desenvolvedor Intermediate
+1. 1.500,00 Dolares Americanos por mes para desenvolvedor Mid-Level
 
 2. 2.000,00 Dolares Americanos por mes para desenvolvedor Senior
 
@@ -46,7 +46,7 @@ These tasks should usually be in your favorite roles, that's why we are looking 
 
 We have several ruby roles to fill - if you have *a few* of the following skills we want to hear from you
 
-* Back-end: [I want to apply as a back-end developer!](#applying)
+* Backend: [I want to apply as a backend developer!](#applying)
   * Linux _(expert level, Ubuntu or Debian)_
   * NoSQL _(redis and friends, but we use sql as our main persistence layer)_
   * Views _(great organization and knows many template syntaxes)_
@@ -60,7 +60,7 @@ We have several ruby roles to fill - if you have *a few* of the following skills
   * APIs _(**consume** from others such as social networks, as well as **develop** our own ones)_
 
 
-* Front-end: [I want to apply as a front-end developer!](#applying)
+* Frontend: [I want to apply as a frontend developer!](#applying)
   * CSS _(we like the scss syntax, you should know browser compatibility)_
   * Coffeescript _(be a ninja or use standard js/jquery)_
   * Webdesign tools _(you don't need a designer to extract images for you)_
@@ -76,18 +76,21 @@ We have several ruby roles to fill - if you have *a few* of the following skills
 > Send us an email to james.pinto@helloinnovation.com
  Please be sure to put the job title you're applying for in the subject line.
 
-> **_"Senior Back End Rails Developer Resume"_**
-> **_"Senior Front End Rails Developer Resume"_**
-> **_"Intermediate Back End Rails Developer Resume"_**
-> **_"Intermediate Front End Rails Developer Resume"_**
+* **_"Senior Backend Rails Developer Resume"_**
+* **_"Senior Frontend Rails Developer Resume"_**
+* **_"Mid-Level Backend Rails Developer Resume"_**
+* **_"Mid-Level Frontend Rails Developer Resume"_**
 
 <br>
 <br>
 
 > Aguardamos seu curriculo,
->
+> 
 > <3 <3 <3, HelloInnovation.com
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
