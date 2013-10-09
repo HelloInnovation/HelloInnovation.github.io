@@ -24,6 +24,8 @@ Tell us about any other great skills you bring to the table.
 
 4. Mid-Level Backend Rails Developer
 
+> To work remotely, full-time, 40 hours per week - no work on Saturdays
+
 ## Compensation
 
 1. 1.500,00 Dolares Americanos por mes para desenvolvedor Mid-Level
