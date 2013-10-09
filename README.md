@@ -30,7 +30,7 @@ Tell us about any other great skills you bring to the table.
 
 1. 1.500,00 Dolares Americanos por mes para desenvolvedor Mid-Level
 
-2. 2.000,00 Dolares Americanos por mes para desenvolvedor Senior
+2. 2.500,00 Dolares Americanos por mes para desenvolvedor Senior
 
 > Pagamento via paypal ou transferencia bancaria, no dia 05 de cada mes
 
